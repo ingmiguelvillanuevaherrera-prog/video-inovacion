@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+motor/audio/
+motor/timeline.json
+preview/
+segs/
+*.wav
+*.mp4
